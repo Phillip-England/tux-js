@@ -1,0 +1,17 @@
+{
+  "name": "bun_web_template",
+  "version": "1.0.50",
+  "scripts": {
+    "dev": "bun run --watch ./src/app/main.ts"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^0.6.5",
+    "@elysiajs/static": "^0.6.0",
+    "elysia": "latest"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.3",
+    "tailwindcss": "^3.3.3"
+  },
+  "module": "src/index.ts"
+}
