@@ -1,5 +1,5 @@
 {
-  "name": "bun_web_template",
+  "name": "tux-js",
   "version": "1.0.50",
   "scripts": {
     "dev": "bun run --watch ./src/app/main.ts"
